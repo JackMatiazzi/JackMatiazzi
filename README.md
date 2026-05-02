@@ -77,17 +77,6 @@ Script educacional para automação de interface no WhatsApp Web via console do 
 
 ---
 
-## Battle Log
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackMatiazzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=e06c75)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackMatiazzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e)
-
-</div>
-
----
 
 ## Stats do Personagem
 

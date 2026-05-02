@@ -17,10 +17,10 @@
 
 Desenvolvo aplicações Python, ferramentas com TypeScript e jogos com Godot. Prefiro código que funciona a código bonito que não roda.
 
-- <img src="https://cdn.simpleicons.org/python/3776AB" width="14"/> **Python** — apps desktop, automação e análise de projetos
-- <img src="https://cdn.simpleicons.org/typescript/3178C6" width="14"/> **Web** — TypeScript, React, Tailwind CSS
-- <img src="https://cdn.simpleicons.org/godotengine/478CBF" width="14"/> **Game Dev** — Godot Engine, GDScript, C# (.NET), Pixel Art
-- <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="14"/> **Automação** — scripts, análise de fluxos e ferramentas internas
+- <img src="https://cdn.simpleicons.org/python/3776AB" width="14"/> **Python**  apps desktop, automação e análise de projetos
+- <img src="https://cdn.simpleicons.org/typescript/3178C6" width="14"/> **Web** TypeScript, React, Tailwind CSS
+- <img src="https://cdn.simpleicons.org/godotengine/478CBF" width="14"/> **Game Dev**  Godot Engine, GDScript, C# (.NET), Pixel Art
+- <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="14"/> **Automação**  scripts, análise de fluxos e ferramentas internas
 - **Off the screen** — Half-Orc Barbarian, D&D 5e, sem arrependimentos
 
 ---

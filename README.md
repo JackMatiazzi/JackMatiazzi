@@ -1,96 +1,62 @@
 <div align="center">
 
 # Jackson Matiazzi
-### Python Developer · Game Dev · Builder of Things
 
-*"You Died. Commit. Try Again."*
+### Desenvolvedor Python · Aplicações · Automação
+
+Transformo problemas e processos em ferramentas que funcionam.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-matiazzi-98b342279/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:matiazzijackson072@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white)](https://github.com/JackMatiazzi)
 
 </div>
 
----
+## Sobre mim
 
-## Sobre Mim
+Desenvolvo aplicações, automações e ferramentas com **Python**, criando desde APIs e sistemas com comunicação em tempo real até interfaces desktop. Também trabalho com **TypeScript** em projetos web e uso **Godot** para explorar desenvolvimento de jogos.
 
-Desenvolvo aplicações Python, ferramentas com TypeScript e jogos com Godot. Prefiro código que funciona a código bonito que não roda.
+Gosto de entender o problema antes de escolher a tecnologia e de construir soluções simples de usar, fáceis de manter e que resolvam uma necessidade real.
 
-- <img src="https://cdn.simpleicons.org/python/3776AB" width="14"/> **Python**  apps desktop, automação e análise de projetos
-- <img src="https://cdn.simpleicons.org/typescript/3178C6" width="14"/> **Web** TypeScript, React, Tailwind CSS
-- <img src="https://cdn.simpleicons.org/godotengine/478CBF" width="14"/> **Game Dev**  Godot Engine, GDScript, C# (.NET), Pixel Art
-- <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="14"/> **Automação**  scripts, análise de fluxos e ferramentas internas
-- **Off the screen** — Half-Orc Barbarian, D&D 5e, sem arrependimentos
+## Projetos em destaque
 
----
+### [FaccuPoint](https://github.com/JackMatiazzi/Faccupoint)
 
-## Arsenal
+Plataforma de quizzes ao vivo para uso em sala de aula. Professores podem criar atividades, abrir salas e acompanhar respostas e pontuações em tempo real.
+
+`Python` `FastAPI` `PostgreSQL` `Flet` `WebSockets`
+
+### [OGV Converter](https://github.com/JackMatiazzi/ogv-converter)
+
+Ferramenta web para converter vídeos e áudios localmente em formatos compatíveis com o Godot, sem enviar os arquivos para um servidor.
+
+`TypeScript` `FFmpeg` `Vite` `Testes automatizados`
+
+### [Lolo Remake](https://github.com/JackMatiazzi/lolo-remake)
+
+Projeto acadêmico desenvolvido em equipe com Godot 4 e GDScript. Minhas contribuições incluíram interfaces, fluxo entre cenas, HUD, tutorial e sistemas de progressão.
+
+`Godot 4` `GDScript` `Game Development`
+
+## Tecnologias
 
 <div align="center">
 
-**Backend & Scripts**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-**Frontend & Web**
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-
-**Game Dev**
-
-[![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godot-engine&logoColor=white)](https://godotengine.org)
-[![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)](https://godotengine.org)
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com)
-
-**Tools**
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
----
+## Além do código
 
-## Projetos
-
-### <img src="https://cdn.simpleicons.org/godotengine/478CBF" width="16"/> [Fagulha](https://github.com/JackMatiazzi/Fagulha)
-Jogo de plataforma com fogueiras como checkpoints, sistema de eco e shaders customizados. Godot 4 + GDScript.
-
-### <img src="https://cdn.simpleicons.org/godotengine/478CBF" width="16"/> [Lolo Remake](https://github.com/JackMatiazzi/lolo-remake)
-Recriação de Adventures of Lolo (NES, 1989) como projeto acadêmico. Godot 4 + GDScript.
-
-### <img src="https://cdn.simpleicons.org/python/3776AB" width="16"/> [FaccuPoint](https://github.com/JackMatiazzi/Faccupoint)
-Plataforma educacional gamificada para criação de quizzes por docentes, com autenticação, pontuação e progressão. TCC — Python.
-
-### <img src="https://cdn.simpleicons.org/typescript/3178C6" width="16"/> [FaccuPoint Design System](https://github.com/JackMatiazzi/Faccupoint-DS)
-Biblioteca de componentes React usada no FaccuPoint: tokens de design, tipografia, Button, Card e Input. TypeScript + Tailwind CSS.
-
-### <img src="https://cdn.simpleicons.org/python/3776AB" width="16"/> [DevProgress Analyzer](https://github.com/JackMatiazzi/DevProgress-Analyzer)
-App desktop em Python que analisa projetos de software, gera diagnósticos técnicos baseados em heurísticas e salva snapshots JSON para acompanhar a evolução.
-
-### <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="16"/> [WhatsApp Web Automation](https://github.com/JackMatiazzi/whatsapp-web-automation)
-Script educacional para automação de interface no WhatsApp Web via console do navegador. JavaScript.
-
----
-
-
-## Stats do Personagem
-
-```
-STR  [████████░░]  Python               LVL 75
-DEX  [███████░░░]  TypeScript · React   LVL 60
-INT  [████████░░]  Godot · GDScript     LVL 70
-WIS  [██████░░░░]  C# · .NET            LVL 50
-CON  [██████████]  Commit Streak            ∞
-LCK  [░░░░░░░░░░]  JavaScript sem TS    LVL 0
-```
-
----
+Jogos, pixel art e RPG de mesa também fazem parte do meu repertório criativo — geralmente como um meio-orc bárbaro que resolve problemas de maneira pouco sutil.
 
 <div align="center">
-<sub>Praise the Sun · Ship the Code · LGTM</sub>
+
+<sub>Ship the code · Learn from the bugs · Try again</sub>
+
 </div>

@@ -56,7 +56,7 @@ Projeto acadêmico desenvolvido em equipe com Godot 4 e GDScript. Minhas contrib
 
 ## Além do código
 
-Jogos, pixel art e RPG de mesa também fazem parte do meu repertório criativo — geralmente como um meio-orc bárbaro que resolve problemas de maneira pouco sutil.
+Jogos, pixel art e RPG de mesa também fazem parte do meu repertório criativo, geralmente como um meio-orc bárbaro que resolve problemas de maneira pouco sutil.
 
 <div align="center">
 

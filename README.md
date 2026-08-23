@@ -8,6 +8,7 @@ Transformo problemas e processos em ferramentas que funcionam.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-matiazzi-98b342279/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:matiazzijackson072@gmail.com)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://muralhaogigante.itch.io/)
 
 </div>
 
@@ -34,6 +35,8 @@ Ferramenta web para converter vídeos e áudios localmente em formatos compatív
 ### [Lolo Remake](https://github.com/JackMatiazzi/lolo-remake)
 
 Projeto acadêmico desenvolvido em equipe com Godot 4 e GDScript. Minhas contribuições incluíram interfaces, fluxo entre cenas, HUD, tutorial e sistemas de progressão.
+
+[Jogar no navegador](https://muralhaogigante.itch.io/lolo-remake)
 
 `Godot 4` `GDScript` `Game Development`
 
